@@ -1,5 +1,12 @@
 Timeline project, work_log for 2020 
 
+4_23.2
+  - components/Timeline
+    - created badges to be stuck on events, created timeline-lin, filter buttons 
+  <!-- ! need to figure out how to bring details up to the front. -->
+  <!-- ! group buttons together, major/minor, personal, world/country/city -->
+
+
 4_23.1
   -created Event component (src/components/Timeline/Event)
     - this is a container for individual events in the time line
