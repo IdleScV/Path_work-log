@@ -1,5 +1,11 @@
 Timeline project, work_log for 2020 
 
+4_23.1
+  -created Event component (src/components/Timeline/Event)
+    - this is a container for individual events in the time line
+    - CSS for everything in the Timeline component(including Event) will be styled in Timeline.style.css
+  - Added Material UI & Sass, no implementation yet
+
 
 4_22
     - ran basic react app to create ./front_end with redux

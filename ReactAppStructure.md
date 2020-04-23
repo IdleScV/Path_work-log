@@ -1,40 +1,37 @@
 1. Naming Convention
-   - PascalCase for component file name and folder name- Generally I want to indicate if my components are container or component. Containers will usually be class components (hooks might change that for me) that contain state and logic, whereas components
-will house the actual content, styling and receive props from container. Example:
-  - `MyComponent.container.js`
-  - `MyComponent.component.js`
-  - `MyComponent.styles.js`- lowerCamelCase for Higher Order Component file and folder name- lowercase for all other root directory folders. For example: `src`, `components`, `assets`
+  - PascalCase for component file name and folder name
+  - "asdasd_asdsd" case for class names 
 
 2. Destrucutre all Objects
-<label>{ this.props.foo }</label> // wrong
+  <label>{ this.props.foo }</label> // wrong
 
-const { foo } = this.props;
-<label>{ foo }</label>            // right
+  const { foo } = this.props;
+  <label>{ foo }</label>            // right
 
-const someFunction = (arguments) => 
-  this.setState({ 
-   foo: arguments.bar
-}); 	                         // wrong
+  const someFunction = (arguments) => 
+    this.setState({ 
+    foo: arguments.bar
+  }); 	                         // wrong
 
-const someFunction = ({ baz }) =>
-  this.setState({ 
-    foo: baz 
-});         	                // right
+  const someFunction = ({ baz }) =>
+    this.setState({ 
+      foo: baz 
+  });         	                // right
 
 3. Use function expressions (and fat arrow) over function declarations
    
-Function declaration:     // wrong
-  function(argument) {
-    // some action
-  };
+  Function declaration:     // wrong
+    function(argument) {
+      // some action
+    };
 
-Function expression:   // right
-  const someFunction = function (arguments){ 
-    // some action
-  }
+  Function expression:   // right
+    const someFunction = function (arguments){ 
+      // some action
+    }
 
-Fat arrow:             //right
-  someFunction = argument => // some action
+  Fat arrow:             //right
+    someFunction = argument => // some action
 
 4. Folder Structure
    - public
