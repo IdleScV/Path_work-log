@@ -1,4 +1,9 @@
 Timeline project, work_log for 2020 
+4_24
+  - components/Timeline
+    -Added Slider for age selecting
+    -Age Selection now works as intended. Changing the events shown, timeline number on top and bottom
+     <!--! Add marks for the timeline & align event with each mark  -->
 
 4_23.2
   - components/Timeline
