@@ -1,9 +1,15 @@
 Timeline project, work_log for 2020 
+
+4_27
+  - Added marks for timeline
+  - added event-line that changes in size depending on size of browser
+  - more css editing 
+
 4_24
   - components/Timeline
     -Added Slider for age selecting
     -Age Selection now works as intended. Changing the events shown, timeline number on top and bottom
-     <!--! Add marks for the timeline & align event with each mark  -->
+     <!--! Add marks for the timeline(DONE) & align event with each mark  -->
 
 4_23.2
   - components/Timeline
