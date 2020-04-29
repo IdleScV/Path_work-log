@@ -1,21 +1,27 @@
 Timeline project, work_log for 2020 
 
+
+4_28
+  = created backend, will commit soon.
+  - created nav bar & menu icon
+
+
 4_27
   - Added marks for timeline
   - added event-line that changes in size depending on size of browser
   - more css editing 
+  <!--! make details a popup & add hover effect for each event  -->
 
 4_24
   - components/Timeline
     -Added Slider for age selecting
     -Age Selection now works as intended. Changing the events shown, timeline number on top and bottom
-     <!--! Add marks for the timeline(DONE) & align event with each mark  -->
+     <!--! Add marks for the timeline(DONE) & align event with each mark(DONE)   -->
 
 4_23.2
   - components/Timeline
     - created badges to be stuck on events, created timeline-lin, filter buttons 
-  <!-- ! need to figure out how to bring details up to the front. -->
-  <!-- ! group buttons together, major/minor, personal, world/country/city -->
+  <!-- ! group buttons together, major/minor(DONE) , personal, world/country/city -->
 
 
 4_23.1
