@@ -1,6 +1,10 @@
 Timeline project, work_log for 2020 
 
 
+4_29
+  - added more seed data
+  - look into managing timeline component so all types of data work (aka deathage)
+
 4_28
   = created backend, will commit soon.
   - created nav bar & menu icon
