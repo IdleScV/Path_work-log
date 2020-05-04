@@ -1,6 +1,14 @@
 Timeline project, work_log for 2020 
 
 
+5_1 => 5_3
+- integrated firebase, created pages that are only accesisble to signed in users
+- restyled the timeline & timeilne card
+- added created timeline function
+  <!-- ! need to make add event function -->
+
+
+
 4_29
   - added more seed data
   - look into managing timeline component so all types of data work (aka deathage)
