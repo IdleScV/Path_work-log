@@ -1,11 +1,18 @@
 Timeline project, work_log for 2020 
 
+5_4 => 5_6
+- addevent function created
+- profile page created with functions per owned timeline
+  <!--! make details a popup & add hover effect for each event  -->
+  <!-- ! make profile page publication icon change depending on status from (global) to (private) -->
+
+
 
 5_1 => 5_3
 - integrated firebase, created pages that are only accesisble to signed in users
 - restyled the timeline & timeilne card
 - added created timeline function
-  <!-- ! need to make add event function -->
+  <!-- ! need to make add event function (Done) -->
 
 
 
@@ -22,7 +29,7 @@ Timeline project, work_log for 2020
   - Added marks for timeline
   - added event-line that changes in size depending on size of browser
   - more css editing 
-  <!--! make details a popup & add hover effect for each event  -->
+  
 
 4_24
   - components/Timeline
@@ -33,7 +40,7 @@ Timeline project, work_log for 2020
 4_23.2
   - components/Timeline
     - created badges to be stuck on events, created timeline-lin, filter buttons 
-  <!-- ! group buttons together, major/minor(DONE) , personal, world/country/city -->
+  <!-- ! group buttons together(DONE), major/minor(DONE) , personal, world/country/city -->
 
 
 4_23.1
