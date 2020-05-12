@@ -1,5 +1,9 @@
 Timeline project, work_log for 2020 
 
+5_7+8+11
+-made details a popup
+-made all buttons in profile page function
+
 5_4 => 5_6
 - addevent function created
 - profile page created with functions per owned timeline
